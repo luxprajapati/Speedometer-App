@@ -9,7 +9,7 @@ The speedometer consists of three main components: frontend, backend, and databa
 
 ### Architecture Block Diagram
 
-![Architecture Diagram](https://drive.google.com/file/d/1GsvZknIbfCYTCeTOj-_VUZtmPQiYM_mO/view)
+![Architecture Diagram](images/Architecture%20Block%20Diagram.png)
 
 ### Frontend
 
