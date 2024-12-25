@@ -11,7 +11,7 @@ COPY package.json package-lock.json ./
 RUN npm install
 
 # Copy all backend files into the container
-COPY . ./
+COPY . .
 
 # Expose the port your server will run on
 EXPOSE 5000
