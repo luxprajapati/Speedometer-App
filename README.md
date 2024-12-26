@@ -50,7 +50,7 @@ The speedometer consists of three main components: frontend, backend, and databa
 3. Update the `DATABASE_URL` in the `docker-compose.yml` file to your database URL and the PostgreSQL environment variables to your credentials.
 
    ```
-   DATABASE_URL= postgresql://Your_username"Your_password@postgres:5432/Your_DB_Name
+   DATABASE_URL= postgresql://Your_username:Your_password@postgres:5432/Your_DB_Name
    ```
 
 4. Compose the cloned project:
