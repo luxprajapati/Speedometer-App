@@ -34,6 +34,8 @@ The speedometer consists of three main components: frontend, backend, and databa
 
 ## Usage Guide with Docker
 
+#### Docker repository: - https://hub.docker.com/repository/docker/luxprajapati/speedometer/general
+
 1. Clone the repository from GitHub:
 
    ```sh
